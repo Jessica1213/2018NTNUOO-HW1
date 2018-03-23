@@ -1,0 +1,15 @@
+circle, 6, 2
+square, 2, 4
+triangle, 1, 5
+circle, 5, 3
+circle, 8, 4
+square, 4, 2
+circle, 3, 2
+circle, 0, 0
+triangle, 2, 3
+circle, 5, 8
+circle, 0, 1
+triangle, 1, 5
+square, 2, 2
+circle, 3, 6
+triangle, 2, 7
